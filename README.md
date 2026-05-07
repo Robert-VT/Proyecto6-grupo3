@@ -12,11 +12,11 @@ Grupo: 3
 ![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/1b21fefb5810894f6dcb2f536ca369064ff968d9/upds_logo_300.jpg)
 
 INTEGRANTES:
--	Ismael Habib Albarracín Forondo
--	Carlos Ignacio Barvo Roca
--	Piermarco Alessio Cordova Luna
--	Sharon Ameli Dominguez Castillo
--	Roberto Ezequiel Villarreal Tirina
+-	Ismael Habib Albarracín Foronda (Diseño de reportes y estadísticas)
+-	Carlos Ignacio Barvo Roca (Marketing y Realizacion de video)
+-	Piermarco Alessio Cordova Luna (Desarrollo del sistema y validaciones)
+-	Sharon Ameli Dominguez Castillo (Implementación de persistencia de datos)
+-	Roberto Ezequiel Villarreal Tirina (Lider de grupo / Documentación y pruebas del sistema)
 
 Docente: Andrés Grover
 

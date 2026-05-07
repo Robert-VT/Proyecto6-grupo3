@@ -120,15 +120,15 @@ Conclusión. – El proyecto pudo permitirnos adquirir nuevos conocimientos en e
 
 Recomendaciones. – Implementar una base de datos para almacenar mayor cantidad de registros, crear una interfaz gráfica moderna, añadir gráficos estadísticos y paneles visuales. Implementar almacenamiento
 
-## ANEXOS
+## 🌌ANEXOS
 Ejemplo de Registro.
 
-![image alt]()
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/b54dae8e90a77d65e9849c0103c25bf7c662aa07/anexo1.png)
 
 Ejemplo de Reporte TXT
 
-![image alt]()
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/b54dae8e90a77d65e9849c0103c25bf7c662aa07/anexo2.png)
 
 Ejemplo de Exportación CSV
 
-![image alt]()
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/b54dae8e90a77d65e9849c0103c25bf7c662aa07/anexo3.png)

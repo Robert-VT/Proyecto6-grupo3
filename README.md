@@ -81,7 +81,7 @@ a)	Registro de Donaciones. – El sistema permite registrar nuevas donaciones me
 
 También se almacena la fecha exacta del registro:
 
-"image 3"
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/3436a268dd90bf4f02ec0000c02d7976fb3aeef8/3.png)
 
 b)	Validación de datos. – Se implementaron validaciones para evitar errores y garantizar información correcta.
 

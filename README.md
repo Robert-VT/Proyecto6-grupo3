@@ -122,3 +122,13 @@ Recomendaciones. – Implementar una base de datos para almacenar mayor cantidad
 
 ## ANEXOS
 Ejemplo de Registro.
+
+![image alt]()
+
+Ejemplo de Reporte TXT
+
+![image alt]()
+
+Ejemplo de Exportación CSV
+
+![image alt]()

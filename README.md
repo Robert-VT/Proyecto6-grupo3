@@ -77,7 +77,7 @@ Clase Principal Utilizada.
 
 a)	Registro de Donaciones. – El sistema permite registrar nuevas donaciones mediante formularios en consola. Cada fonación genera automáticamente un comprobante único.
 
-"image 2"
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/64431b420910d14086419fadd976ca2cc2362a0e/2.png)
 
 También se almacena la fecha exacta del registro:
 

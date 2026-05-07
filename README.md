@@ -57,3 +57,67 @@ Tecnología utilizadas.
 
 ## 💻 Estructura de Datos Implementada
 Clase Principal Utilizada.
+
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/3b10dec62fdcb853eba74b84cd536c03424e9323/1.png)
+
+📃Descripción de Propiedades
+              
+|PROPIEDADES                    |DESCRIPCION                           |
+|-------------------------------|--------------------------------------|
+|Numero Comprobante             |Código Único generado automáticamente |
+|Fecha Recepción                |Fecha de ingreso de la donación       |
+|Donante                        |Nombre de la persona o instituto d.   |
+|Tipo Donación                  |Tipo de ayuda recibida                |
+|Valor Estimado                 |Valor monetario aproximado            |
+|Destino Asignado               |Lugar o institución beneficiada       |
+|Estado Distribuido             |Indica si la donación fue entregada   |
+|Fecha Distribución	            |Fecha de distribución de la ayuda     |
+
+🔹Funcionalidades Implementadas.
+
+a)	Registro de Donaciones. – El sistema permite registrar nuevas donaciones mediante formularios en consola. Cada fonación genera automáticamente un comprobante único.
+
+"image 2"
+
+También se almacena la fecha exacta del registro:
+
+"image 3"
+
+b)	Validación de datos. – Se implementaron validaciones para evitar errores y garantizar información correcta.
+
+Validación de Texto. - Permite únicamente letras y espacios.
+Validación de Numérica. – Controla que el usuario ingrese números válidos. 
+
+"image 4"
+
+c)	Búsqueda de Donaciones. – El sistema permite buscar registros por comprobante o nombre del donante utilizando LINQ.
+
+"image 5"
+
+d)	Listado de Donaciones Pendientes. – El programa muestra todas las donaciones que aún no fueron distribuidas. 
+
+"image 6"
+
+e)	Generación de Reportes. – El sistema genera automáticamente archivos TXT con información resumida de las donaciones.
+
+"image 7"
+
+f)	Exportación CVS. – La información puede exportarse en formato CSV para abrirse posteriormente en Exel.
+
+"image 8"
+
+g)	Estadísticas del Sistema. – El programa identifica automáticamente al donante con mayor aporte económico.
+
+"image 9"
+
+h)	Organización de Datos. – Las donaciones pueden ordenarse según:
+- Más recientes 
+- Más antiguas
+- Mayor valor
+- Menor valor
+
+Conclusión. – El proyecto pudo permitirnos adquirir nuevos conocimientos en el transcurso de la materia de Programación II utilizando el lenguaje C# y el framework .NET 10. El sistema desarrollado cumple con los objetivos planteados al proporcionar una herramienta funcional para registrar y administrar donaciones públicas de forma organizada y transparente.
+
+Recomendaciones. – Implementar una base de datos para almacenar mayor cantidad de registros, crear una interfaz gráfica moderna, añadir gráficos estadísticos y paneles visuales. Implementar almacenamiento
+
+## ANEXOS

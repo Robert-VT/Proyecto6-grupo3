@@ -88,27 +88,27 @@ b)	Validación de datos. – Se implementaron validaciones para evitar errores y
 Validación de Texto. - Permite únicamente letras y espacios.
 Validación de Numérica. – Controla que el usuario ingrese números válidos. 
 
-"image 4"
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/7cec7b54dabaf83f746db6fec82590d34c7a78c3/4.png)
 
 c)	Búsqueda de Donaciones. – El sistema permite buscar registros por comprobante o nombre del donante utilizando LINQ.
 
-"image 5"
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/7cec7b54dabaf83f746db6fec82590d34c7a78c3/5.png)
 
 d)	Listado de Donaciones Pendientes. – El programa muestra todas las donaciones que aún no fueron distribuidas. 
 
-"image 6"
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/7cec7b54dabaf83f746db6fec82590d34c7a78c3/6.png)
 
 e)	Generación de Reportes. – El sistema genera automáticamente archivos TXT con información resumida de las donaciones.
 
-"image 7"
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/7cec7b54dabaf83f746db6fec82590d34c7a78c3/7.png)
 
 f)	Exportación CVS. – La información puede exportarse en formato CSV para abrirse posteriormente en Exel.
 
-"image 8"
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/7cec7b54dabaf83f746db6fec82590d34c7a78c3/8.png)
 
 g)	Estadísticas del Sistema. – El programa identifica automáticamente al donante con mayor aporte económico.
 
-"image 9"
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/7cec7b54dabaf83f746db6fec82590d34c7a78c3/9.png)
 
 h)	Organización de Datos. – Las donaciones pueden ordenarse según:
 - Más recientes 
@@ -121,3 +121,4 @@ Conclusión. – El proyecto pudo permitirnos adquirir nuevos conocimientos en e
 Recomendaciones. – Implementar una base de datos para almacenar mayor cantidad de registros, crear una interfaz gráfica moderna, añadir gráficos estadísticos y paneles visuales. Implementar almacenamiento
 
 ## ANEXOS
+Ejemplo de Registro.

@@ -9,6 +9,8 @@ Gestión: 2026
 
 Grupo: 3
 
+![image alt](https://github.com/Robert-VT/Proyecto6-grupo3/blob/1b21fefb5810894f6dcb2f536ca369064ff968d9/upds_logo_300.jpg)
+
 INTEGRANTES:
 -	Ismael Habib Albarracín Forondo
 -	Carlos Ignacio Barvo Roca
